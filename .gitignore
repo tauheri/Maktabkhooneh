@@ -4,3 +4,4 @@ resources/
 *.env
 /media/
 /static/
+db.sqlite3
